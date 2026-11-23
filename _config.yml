@@ -1,0 +1,5 @@
+# Keep the Claude system out of the published GitHub Pages site (still visible in the public repo).
+exclude:
+  - brain
+  - CLAUDE.md
+  - .claude
